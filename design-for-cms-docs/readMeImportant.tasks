@@ -1,0 +1,101 @@
+Assignment 2: Drupal CMS:
+
+Instructions:
+ ✔ install and configure drupal Drupal 7.36  @done (15-10-07 14:48)
+ ✔ follow the brief to create a website @done (15-10-07 14:53)
+ ✔ download and install a theme to suite the brief @done (15-10-07 14:53)
+ ✔ configure pages to suite the brief @done (15-10-07 14:53)
+ ✔ install drupal modules and configure as required @done (15-10-07 14:53)
+ ☐ present to class and discuss
+
+Install instructions:
+
+ ✔ Download Drupal 7.36 @done (15-10-07 14:53)
+ ✔ Extract to C://xampp/htdocs @done (15-10-07 14:53)
+ ✔ Rename if necessary C://xampp/htdocs/drupal @done (15-10-07 14:53)
+ ✔ Run C://xamp/xampp-control.exe @done (15-10-07 14:53)
+ ✔ Open http://localhost/phpmyadmin @done (15-10-07 14:53)
+ ✔ Create a new user also a database with all permissions @done (15-10-07 14:53)
+ ✔ Open http://localhost/drupal @done (15-10-07 14:53)
+ ✔ Add the user and database to page and install @done (15-10-07 14:53)
+ ✔ PHP.ini timt out @done (15-10-07 14:53)
+
+ ✔ Open C://xampp/php/php.ini @done (15-10-07 14:54)
+ ✔ Change max_execution_time=30 @done (15-10-07 14:54)
+
+Turn on core functions:
+ ✔ contact @done (15-10-07 14:54)
+ ✔ blog - use this for latest news if you like @done (15-10-07 14:54)
+
+ Find modules for the following functions:
+Refer to videos on VU Collaborate:
+ They can be installed by:
+  ☐ http://localhost/drupal/admin/modules/install
+  ☐ Click on the module URL
+  ☐ Scroll down to recommended release:
+  ☐ Right Click the d/l link for tar.gz
+  ☐ Scroll down to copy link address
+  ☐ Pate address in the Install from URL text field
+  ☐ Press enter and it installs!
+
+ ✔ image carousel (possible use ddblock) @done (15-10-07 14:54)
+ ✔ suggestions https://www.drupal.org/project/ddblock @done (15-10-07 14:54)
+ ✔ requires https://www.drupal.org/project/libraries @done (15-10-07 14:54)
+ ✔ requires http://malsup.github.com/jquery.cycle.all.js @done (15-10-07 14:54)
+  ✔ Ceate folders: E:\xampp\htdocs\myDrupal\sites\default\files\images\ddblock  @done (15-10-07 14:55)
+Frequently asked questions:
+ ✔ suggestions https://www.drupal.org/project/faq @done (15-10-07 15:02)
+ Shoping cart: 
+ ☐ suggestions https://drupalcommerce.org/user-guide/shopping-cart
+ ☐ suggestions https://www.drupal.org/project/ubercart
+ ☐ NB: there is a commerce kickstart drupal installation which is not a module but a drupal with preconfigured modules you could install and have a look at https://www.drupal.org/project/commerce_kickstart
+ ☐ social media share
+ ☐ suggestions https://www.drupal.org/project/sharethis
+
+Theme Zen:
+
+ ☐ You will develop a sub-theme using Zen
+ ☐ https://www.drupal.org/project/zen
+ ☐ Setting a front page
+
+ ☐ Open http://localhost/drupal/admin/config/system/site-information
+ ☐ Set Front page > Default front page
+ ☐ Recommended modules to make Drupal interface easy to use
+
+ ✔ https://www.drupal.org/project/admin_menu @done (15-10-07 15:01)
+ ☐ turn off toolbar in the core when installing admin_menu
+ ✔ https://www.drupal.org/project/wysiwyg @done (15-10-07 15:12)
+ ☐ Download CKEditor
+ ☐ Download tinymce
+ ☐ https://www.drupal.org/project/imce
+ ☐ https://www.drupal.org/project/imce_wysiwyg
+PLEASE NOTE:
+ ☐ All modules are installed in drupal/sites/all/modules folder.
+ ☐ You must open this folder and read the readme.txt file to understand  ☐ the module.
+ ☐ Style.css for mytheme should include  :focus { outline:none; }
+ ☐ Required for DDBlock
+
+Cycle plugin:
+ ☐ You need to install the jQuery cycle plugin.
+ ☐ Create a directory in sites/all/libraries called jquery.cycle, and then copy jquery.cycle.all.js or jquery.cycle.all.min.js into it.
+ ☐ Latest version tested: 2.99
+ ☐ You can find the plugin at http://malsup.com/jquery/cycle/download.html.
+
+
+
+Saving jquery.cycle.all.js:
+ ☐ DIR: C:\xampp\htdocs\drupal\sites\all\libraries\jquery.cycle
+ ☐ DIR: C:\xampp\htdocs\drupal\sites\: location of all the data that we add to the drupal frameowrk
+ ☐ sites DIR - zipped and handed into teacher when finalizing the assignment
+ ☐ C:\xampp\htdocs\drupal\sites\default\files\images\ddblock
+ ☐ 
+ ☐ 
+ ☐ 
+ ☐ 
+ ☐ 
+ ☐ 
+ ☐ 
+ ☐ 
+ 
+ Keys for tasks files:
+ http://www.hongkiat.com/blog/sublime-text-task-management/

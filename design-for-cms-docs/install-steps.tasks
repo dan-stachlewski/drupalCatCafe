@@ -1,0 +1,30 @@
+INSTRUCTIONS:
+ ✔ install and configure drupal Drupal 7.36 @done (15-10-14 17:57)
+ ☐ follow the brief to create a website
+ ☐ download and install a theme to suite the brief
+ ☐ configure pages to suite the brief
+ ☐ install drupal modules and configure as required
+ ☐ present to class and discuss
+
+ INSTALL INSTRUCTIONS (follow Mel's Videos):
+ ✔ Download Drupal 7.36 @done (15-10-14 17:57)
+ ✔ Extract to C://xampp/htdocs @done (15-10-14 17:57)
+ ✔ Rename if necessary C://xampp/htdocs/drupal @done (15-10-14 17:57)
+ ✔ Run C://xamp/xampp-control.exe @done (15-10-14 17:57)
+ ✔ Open http://localhost/phpmyadmin @done (15-10-14 17:59)
+ ✔ Create 'New User' @done (15-10-14 17:59)
+ ✔ Username: drupal @done (15-10-14 17:59)
+ ✔ Host: drupal @done (15-10-14 17:59)
+ ✔ Password: drupal @done (15-10-14 17:59)
+ ✔ Create dBase with same name and grant all privelidges @done (15-10-14 17:59)
+ ✔ Open http://localhost/drupal @done (15-10-14 17:59)
+ ✔ Add the user and database to page and install @done (15-10-14 17:59)
+
+PHP.ini TIME OUT:
+ ✔ Open C://xampp/php/php.ini @done (15-10-14 17:59)
+ ✔ Change max_execution_time=30 @done (15-10-14 17:59)
+
+ TURN ON CORE FUNCTIONS:
+ ✔ Install updates if prompted @done (15-10-14 18:01)
+ ☐ Contact
+ ☐ Blog - use this for latest news if you like
