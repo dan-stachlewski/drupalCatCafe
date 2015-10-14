@@ -12,6 +12,7 @@ INSTRUCTIONS:
  ✔ Rename if necessary C://xampp/htdocs/drupal @done (15-10-14 17:57)
  ✔ Run C://xamp/xampp-control.exe @done (15-10-14 17:57)
  ✔ Open http://localhost/phpmyadmin @done (15-10-14 17:59)
+ ✔ Open http://localhost/drupal @done (15-10-14 17:59)
  ✔ Create 'New User' @done (15-10-14 17:59)
  ✔ Username: drupal @done (15-10-14 17:59)
  ✔ Host: drupal @done (15-10-14 17:59)
@@ -26,5 +27,38 @@ PHP.ini TIME OUT:
 
  TURN ON CORE FUNCTIONS:
  ✔ Install updates if prompted @done (15-10-14 18:01)
- ☐ Contact
- ☐ Blog - use this for latest news if you like
+ ✔ Commit Changes to GitHub before doing anything else as it is a clean canvas to start on for Assignment 2 @done (15-10-14 18:24)
+
+SETTING A FRONT PAGE:
+ ✔ Open localhost/drupal/admin/config/system/site-information @done (15-10-14 18:33)
+ ☐ Set Front Page -> Default front page
+
+ ADMIN MENU:
+☐ https://www.drupal.org/project/admin_menu
+☐ turn off toolbar in the core when installing admin_menu
+ 
+ CONTACT US PAGE:
+ 
+BLOG:
+ ☐ use this for latest news if you like
+ 
+Recommended modules to make Drupal interface easy to use:
+
+
+☐ https://www.drupal.org/project/wysiwyg
+☐ Download CKEditor
+☐ Download tinymce
+☐ https://www.drupal.org/project/imce
+☐ https://www.drupal.org/project/imce_wysiwyg
+☐ PLEASE NOTE 
+
+☐ All modules are installed in drupal/sites/all/modules folder.
+☐ You must open this folder and read the readme.txt file to understand the module.
+☐ Style.css for mytheme should include  :focus { outline:none; }
+☐ Required for DDBlock
+
+☐ Cycle plugin
+☐ You need to install the jQuery cycle plugin.
+☐ Create a directory in sites/all/libraries called jquery.cycle, and then copy jquery.cycle.all.js or jquery.cycle.all.min.js into it.
+☐ Latest version tested: 2.99
+☐ You can find the plugin at http://malsup.com/jquery/cycle/download.html.
