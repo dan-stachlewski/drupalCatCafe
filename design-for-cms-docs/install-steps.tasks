@@ -34,31 +34,46 @@ SETTING A FRONT PAGE:
  ☐ Set Front Page -> Default front page
 
  ADMIN MENU:
-☐ https://www.drupal.org/project/admin_menu
-☐ turn off toolbar in the core when installing admin_menu
- 
+✔ https://www.drupal.org/project/admin_menu @done (15-10-15 09:25)
+✔ Copy Link address for zip file (right-mouse click -> copy link address) @done (15-10-15 09:25)
+✔ click Modules @done (15-10-15 09:25)
+✔ Install new module @done (15-10-15 09:25)
+✔ paste copied link @done (15-10-15 09:25)
+✔ turn off toolbar in the core when installing admin_menu @done (15-10-15 09:25)
+✔ enable newly added modules @done (15-10-15 09:25)
+
  CONTACT US PAGE:
- 
+ ✔ Add a contact page @done (15-10-15 09:35)
 BLOG:
- ☐ use this for latest news if you like
- 
+ ✔ use this for latest news if you like @done (15-10-15 09:34)
+
 Recommended modules to make Drupal interface easy to use:
+✔ https://www.drupal.org/project/wysiwyg @done (15-10-15 09:25)
+✔ Download CKEditor @done (15-10-15 09:25)
+✔ Download tinymce @done (15-10-15 09:25)
+✔ https://www.drupal.org/project/imce @done (15-10-15 09:25)
+✔ https://www.drupal.org/project/imce_wysiwyg @done (15-10-15 09:25)
 
-
-☐ https://www.drupal.org/project/wysiwyg
-☐ Download CKEditor
-☐ Download tinymce
-☐ https://www.drupal.org/project/imce
-☐ https://www.drupal.org/project/imce_wysiwyg
-☐ PLEASE NOTE 
-
-☐ All modules are installed in drupal/sites/all/modules folder.
-☐ You must open this folder and read the readme.txt file to understand the module.
+PLEASE NOTE:
+✔ All modules are installed in drupal/sites/all/modules folder. @done (15-10-15 10:39)
+✔ You must open this folder and read the readme.txt file to understand the module. @done (15-10-15 10:39)
 ☐ Style.css for mytheme should include  :focus { outline:none; }
-☐ Required for DDBlock
+✔ Required for DDBlock @done (15-10-15 10:39)
+ddblock:
+✔ Cycle plugin @done (15-10-15 10:39)
+✔ You need to install the jQuery cycle plugin. @done (15-10-15 10:39)
+✔ Create a directory in sites/all/libraries called jquery.cycle, and then copy jquery.cycle.all.js or jquery.cycle.all.min.js into it. @done (15-10-15 10:39)
+✔ Latest version tested: 2.99 @done (15-10-15 10:39)
+✔ You can find the plugin at http://malsup.com/jquery/cycle/download.html. @done (15-10-15 10:39)
+✔ Created New BLOCK called Kitty Carousel @done (15-10-15 10:40)
+✔ Found some img's to add to the carousel @done (15-10-15 10:40)
+✔ Edited the img's so they were 960px x 300px @done (15-10-15 10:41)
+✔ Img's saved to DIR: C:\xampp\htdocs\drupal\sites\default\files\images\ddblock @done (15-10-15 10:41)
+✔ Set the carousel to sit in the header and it is displayed on the <front> page @done (15-10-15 10:42)
+ ✔ Go to styructure>dynamic display blocks>settings- ddblock adjustments done here @done (15-10-15 10:44)
 
-☐ Cycle plugin
-☐ You need to install the jQuery cycle plugin.
-☐ Create a directory in sites/all/libraries called jquery.cycle, and then copy jquery.cycle.all.js or jquery.cycle.all.min.js into it.
-☐ Latest version tested: 2.99
-☐ You can find the plugin at http://malsup.com/jquery/cycle/download.html.
+SET UP front page as index.php page:
+ ☐ 
+ ☐ 
+ ☐ 
+ ☐ 
